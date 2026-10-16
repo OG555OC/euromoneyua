@@ -18,7 +18,7 @@ const chakraPetch = Chakra_Petch({
 export const metadata: Metadata = {
   title: "Euro Money | Telegram",
   description:
-    "Напиши нашему менеджеру в Telegram и узнай, как ты можешь получать по 600 € в неделю!",
+    "Напиши нашему менеджеру в Telegram и узнай, как ты можешь получать по 600€ в неделю без вложений!",
 };
 
 export default function RootLayout({
