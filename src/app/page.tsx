@@ -28,7 +28,7 @@ export default function Home() {
         </a>
 
         <p className="description">
-          Напиши нашему менеджеру в Telegram и узнай, как получать по 100$ в день за просмотр фильмов!
+          Напиши нашему менеджеру в Telegram и узнай, как получать по 600€ в неделю без вложений!
         </p>
 
         <div className="actions">
